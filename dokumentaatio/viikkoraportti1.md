@@ -1,18 +1,18 @@
 ## Viikkoraportti 1  
 ### Mitä olen tehnyt tällä viikolla?  
-> Alustanut projektin, luonut repot ja tehnyt taustatutkimusta aiheesta  
+Alustanut projektin, luonut repositioriot ja tehnyt taustatutkimusta aiheesta.  
 
 ### Miten ohjelma on edistynyt?  
-> Ohjelma on alustettu  
+Ohjelma on alustettu GitHub-repositiorioon.  
 
 ### Mitä opin tällä viikolla?  
-> Erilaisista labyrintin luovista algoritmeistä, kuten "Randomized Prim's algorithm".  
+Erilaisista labyrintin luovista algoritmeistä, kuten "Randomized Prim's algorithm".  
 
 ### Mikä jäi epäselväksi tai tuottanut vaikeuksia?  
-> Epäselväksi on jäänyt eri algoritmien erot. vielä Vaikeuksia on tuottanut aiheenvalinta.  
+Epäselväksi on vielä jäänyt eri algoritmien erot. Luolaston generoinnin tuottaminen ilman valmiita kirjastoja voi tuottaa haasteita. Käyttöliittymä tulee mitä todennäköisimmin olemaan tekstikäyttöliittymä. Aiheenvalinta on tuottanut hieman vaikeuksia, sillä useampi asia kuulostaa mielenkiintoiselta.  
 
 ### Mitä teen seuraavaksi?  
-> Aloitan itse ohjelman kehityksen.  
+Aloitan ohjelman varsinaisen kehittämisen ja muun sen mukana tulevan, kuten testauksen ja lisädokumentoinnin. Otan selvää myös ohjelman laajuudesta.    
 
 ### Viikolla käytetty aika
-> 4 tuntia.
+6 tuntia.

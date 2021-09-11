@@ -1,6 +1,6 @@
 # Tiralabra, syksy 2021  
-## Luolageneraattori  
-Kurssilla on tarkoitus toteuttaa luolageneraattori, joka luo valmiin, staattisen luolaston etukäteen. Ohjelmointikielenä toimii Java.  
+## Luolastogeneraattori  
+Kurssilla on tarkoitus toteuttaa luolastogeneraattori, joka luo valmiin, staattisen luolaston. Luolastossa tulee olemaan erikokoisia käytäviä ja huoneita. Ohjelmointikielenä toimii Java.  
 
 ### Dokumentaatio 
 * [Määrittelydokumentti](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Määrittelydokumentti.md)  
@@ -10,3 +10,8 @@ Kurssilla on tarkoitus toteuttaa luolageneraattori, joka luo valmiin, staattisen
 
 ### Viikkoraportit  
 * [Viikkoraportti 1](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/viikkoraportti1.md)  
+* Viikkoraportti 2  
+* Viikkoraportti 3  
+* Viikkoraportti 4  
+* Viikkoraportti 5  
+* Viikkoraportti 6  
