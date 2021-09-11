@@ -3,7 +3,7 @@
 Kurssilla on tarkoitus toteuttaa luolageneraattori, joka luo valmiin, staattisen luolaston etukäteen. Ohjelmointikielenä toimii Java.  
 
 ### Dokumentaatio 
-*[Määrittelydokumentti](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Määrittelydokumentti.md)  
+* [Määrittelydokumentti](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Määrittelydokumentti.md)  
 * [Toteutusdokumentti (WIP)](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Toteutusdokumentti.md)  
 * [Testausdokumentti (WIP)](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Testausdokumentti.md)  
 * [Käyttöohje (WIP)](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Käyttöohje.md)  
