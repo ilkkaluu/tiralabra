@@ -13,7 +13,7 @@ jacocoTestReport {
 
 check.dependsOn jacocoTestReport
 
-mainClassName = 'tiralabra.placeholder.Main'
+mainClassName = 'tiralabra.Main'
 
 repositories {
     jcenter()

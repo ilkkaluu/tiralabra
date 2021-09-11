@@ -1,5 +1,5 @@
 
-package tiralabra.placeholder;
+package tiralabra;
 
 public class Main {
 
