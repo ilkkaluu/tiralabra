@@ -1,5 +1,6 @@
 # Määrittelydokumentti  
-### Ohjelmointikieli: Java 
+### Ohjelmointikieli  
+> Java 
 ### Toteutettavat algoritmit ja tietorakenteet  
 
 ### Ratkaistavat ongelmat, valitut algoritmit ja tietorakenteet  
@@ -7,6 +8,6 @@
 ### Tavoitteena olevat aika- ja tilavaativuudet   
 ### Lähteet   
 ### Opinto-ohjelma   
-Tietojenkäsittelytieteen kanditaatti  
+> Tietojenkäsittelytieteen kanditaatti  
 ### Projektissa käytetty kieli  
-Suomi
+> Suomi
