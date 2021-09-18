@@ -9,8 +9,8 @@ Kurssilla on tarkoitus toteuttaa kahden eri luolaston käytäviä luovien algori
 * [Käyttöohje (WIP)](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Käyttöohje.md)  
 
 ### Viikkoraportit  
-* [Viikkoraportti 1](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/viikkoraportit/viikkoraportti1.md)  
-* [Viikkoraportti 2](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/viikkoraportit/viikkoraportti2.md)  
+* [Viikkoraportti 1](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Viikkoraportit/viikkoraportti1.md)  
+* [Viikkoraportti 2](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Viikkoraportit/viikkoraportti1.md)  
 * Viikkoraportti 3  
 * Viikkoraportti 4  
 * Viikkoraportti 5  
