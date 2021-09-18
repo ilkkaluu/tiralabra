@@ -2,10 +2,10 @@
 ### Ohjelmointikieli  
 Java 
 ### Toteutettavat algoritmit ja tietorakenteet  
-Toistaiseksi määrittelemättömiä. Selvenevät kurssin edetessä.  
+Vertailun kohteena ovat satunnaistetut versiot Primin ja Kruskalin algoritmeistä. Mahdolliset tietorakenteet täydennetään tähän ohjelman edetessä.  
 
 ### Ratkaistavat ongelmat, valitut algoritmit ja tietorakenteet  
-Mahdollisia ongelmia voi tuottaa luolaston generointi siten, että luolaston huoneet ja tunnelit eivät mene päällekkäin, ja, että luolasto on generoitu melko järkevästi. Valittuja algoritmeja ja tietorakenteita ei vielä ole.  
+Satunnaistetut Primin ja Kruskalin algoritmit ovat valittu niiden toiminnan eroavaisuuksien takia. Valittuja tietorakenteita ei vielä ole, mutta ne päivitetään tänne ohjelman edetessä.  
 
 ### Saadut syötteet ja niiden käyttö   
 Syötteitä tai niiden käyttöä on vaikea arvioida etukäteen, sillä ohjelma voi kurssin edetessä muuttua.  

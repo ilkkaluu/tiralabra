@@ -1,6 +1,6 @@
 # Tiralabra, syksy 2021  
-## Luolastogeneraattori  
-Kurssilla on tarkoitus toteuttaa luolastogeneraattori, joka luo valmiin, staattisen luolaston. Luolastossa tulee olemaan erikokoisia käytäviä ja huoneita. Ohjelmointikielenä toimii Java.  
+## Luolastogeneraattorivertailu  
+Kurssilla on tarkoitus toteuttaa kahden eri luolaston käytäviä luovien algoritmien vertailu; satunnaistetut Primin ja Kruskalin algoritmit. Tavoitteena on vertailla edellä mainittujen algoritmien toimintaa luolaston käytävien luonnissa. Ohjelmointikielenä toimii Java.  
 
 ### Dokumentaatio 
 * [Määrittelydokumentti](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Määrittelydokumentti.md)  
@@ -9,8 +9,8 @@ Kurssilla on tarkoitus toteuttaa luolastogeneraattori, joka luo valmiin, staatti
 * [Käyttöohje (WIP)](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/Käyttöohje.md)  
 
 ### Viikkoraportit  
-* [Viikkoraportti 1](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/viikkoraportti1.md)  
-* Viikkoraportti 2  
+* [Viikkoraportti 1](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/viikkoraportit/viikkoraportti1.md)  
+* [Viikkoraportti 2](https://github.com/ilkkaluu/tiralabra/blob/master/dokumentaatio/viikkoraportit/viikkoraportti2.md)  
 * Viikkoraportti 3  
 * Viikkoraportti 4  
 * Viikkoraportti 5  

@@ -1,6 +1,9 @@
 
 package tiralabra;
 
+import util.RKruskal;
+import util.RPrim; 
+
 public class Main {
 
 
