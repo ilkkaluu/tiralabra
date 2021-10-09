@@ -86,20 +86,20 @@ public class RPrim {
 
         Integer leveys;
         Integer korkeus;
-        Piste parent;
+        Piste piste;
 
         public Piste(int x, int y, Piste p) {
             leveys = x;
             korkeus = y;
-            parent = p;
+            piste = p;
         }
 
         public Piste vastakkainen() {   //lasketaan vastakkaisen kohdan sijainti
-            if (this.leveys.compareTo(parent.leveys) != 0) {
-                return new Piste(this.leveys + this.leveys.compareTo(parent.leveys), this.korkeus, this);
+            if (this.leveys.compareTo(piste.leveys) != 0) {
+                return new Piste(this.leveys + this.leveys.compareTo(piste.leveys), this.korkeus, this);
             }
-            if (this.korkeus.compareTo(parent.korkeus) != 0) {
-                return new Piste(this.leveys, this.korkeus + this.korkeus.compareTo(parent.korkeus), this);
+            if (this.korkeus.compareTo(piste.korkeus) != 0) {
+                return new Piste(this.leveys, this.korkeus + this.korkeus.compareTo(piste.korkeus), this);
             }
             return null;
         }

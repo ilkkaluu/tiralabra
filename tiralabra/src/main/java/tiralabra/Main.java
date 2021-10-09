@@ -8,7 +8,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        RPrim.suorita(10, 20);
+        RPrim.suorita(20, 20);
     }
     
 }
