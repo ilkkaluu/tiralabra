@@ -10,7 +10,10 @@ public class RPrim {
 
         StringBuilder stringBuilder = new StringBuilder(korkeus);   //labyrintin seinät rakennetaan
         for (int x = 0; x < korkeus; x++) {
-            stringBuilder.append('#');
+            for (int y = 0; y < leveys; y++) {
+                            stringBuilder.append('#');
+
+            }
         }
         char[][] labyrintti = new char[leveys][korkeus];
         for (int x = 0; x < leveys; x++) {

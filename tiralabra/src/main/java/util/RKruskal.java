@@ -4,7 +4,9 @@ package util;
 import java.util.*;
 
 public class RKruskal {
-    private final int n;
+    
+    
+    /*private final int n;
     private final int m;
     
     private List<Integer> seinat = new ArrayList<>();
@@ -62,7 +64,7 @@ public class RKruskal {
     
     public HashMap<Integer, List<Integer>> getNeliot() {
         return this.aNeliot;
-    }
+    }*/
     
     
 }
