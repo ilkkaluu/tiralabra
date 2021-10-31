@@ -21,6 +21,9 @@ Tavoitteena on, että vaativuudet ovat mahdollisimman pieniä. Vaativuuksia ei k
 
 ### Lähteet   
 https://en.wikipedia.org/wiki/Maze_generation_algorithm  
+https://en.wikipedia.org/wiki/Kruskal%27s_algorithm  
+https://en.wikipedia.org/wiki/Prim%27s_algorithm  
+https://www.algostructure.com/specials/maze.php
 http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/  
 https://www.gamedeveloper.com/programming/procedural-dungeon-generation-algorithm  
 
