@@ -8,7 +8,7 @@ class Main {
     public static void main(String[] args) {
         long pAloitusaika = System.nanoTime();
 
-        RPrim.suorita(100, 100);      //Primin labyrintin koko, säädä arvoja halutun kokoiseksi tasaneliöksi.
+        RPrim.suorita(50, 50);      //Primin labyrintin koko, säädä arvoja halutun kokoiseksi tasaneliöksi.
 
         long pLopetusaika = System.nanoTime();
         long pKokonaisaika = (pLopetusaika - pAloitusaika) / 1000000;
@@ -20,7 +20,7 @@ class Main {
 
         long kAloitusaika = System.nanoTime();
         
-        RKruskal kruskalLabyrintti = new RKruskal(100); //Kruskalin labyrintin koko, säädä labyrintin kokoa
+        RKruskal kruskalLabyrintti = new RKruskal(50); //Kruskalin labyrintin koko, säädä labyrintin kokoa
         kruskalLabyrintti.uudestaan();
         kruskalLabyrintti.tulosta();
         
