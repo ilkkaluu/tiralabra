@@ -2,13 +2,19 @@
 ### Ohjelmointikieli  
 Java 
 ### Toteutettavat algoritmit ja tietorakenteet  
-Vertailun kohteena ovat satunnaistetut versiot Primin ja Kruskalin algoritmeistä. Mahdolliset tietorakenteet täydennetään tähän ohjelman edetessä.  
+Vertailun kohteena ovat satunnaistetut versiot Primin ja Kruskalin algoritmeistä. 
 
 ### Ratkaistavat ongelmat, valitut algoritmit ja tietorakenteet  
-Satunnaistetut Primin ja Kruskalin algoritmit ovat valittu niiden toiminnan eroavaisuuksien takia. Valittuja tietorakenteita ei vielä ole, mutta ne päivitetään tänne ohjelman edetessä.  
+Satunnaistetut Primin ja Kruskalin algoritmit ovat valittu niiden toiminnan eroavaisuuksien takia. Valittuja tietorakenteita ovat muun muuassa ArrayList.
 
 ### Saadut syötteet ja niiden käyttö   
-Syötteitä tai niiden käyttöä on vaikea arvioida etukäteen, sillä ohjelma voi kurssin edetessä muuttua.  
+Ohjelman main-luokassa voidaan alustaa satunnaistetulla Primin ja Kruskalin algoritmillä toimivat labyrintit. Esimerkiksi 
+>RPrim.suorita(50, 50);   
+tuottaa satunnaistetun Primin algoritmillä luodun labyrintin, jonka mitat ovat 50x50 ja  
+>RKruskal kruskalLabyrintti = new RKruskal(50);   
+tuottaa satunnaistetun Kruskalin algoritmillä luodun labyrintin, jonka mitat ovat 50x50.  
+  
+Käyttäjä siis itse asettaa arvot ennen ohjelman ajamista.  
 
 ### Tavoitteena olevat aika- ja tilavaativuudet   
 Tavoitteena on, että vaativuudet ovat mahdollisimman pieniä. Vaativuuksia ei kuitenkaan voida määritellä tarkasti ennen varsinaista ohjelmaa.  
