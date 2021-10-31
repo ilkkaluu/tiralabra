@@ -9,9 +9,11 @@ Satunnaistetut Primin ja Kruskalin algoritmit ovat valittu niiden toiminnan eroa
 
 ### Saadut syötteet ja niiden käyttö   
 Ohjelman main-luokassa voidaan alustaa satunnaistetulla Primin ja Kruskalin algoritmillä toimivat labyrintit. Esimerkiksi 
->RPrim.suorita(50, 50);   
+>RPrim.suorita(50, 50);
+    
 tuottaa satunnaistetun Primin algoritmillä luodun labyrintin, jonka mitat ovat 50x50 ja  
 >RKruskal kruskalLabyrintti = new RKruskal(50);   
+   
 tuottaa satunnaistetun Kruskalin algoritmillä luodun labyrintin, jonka mitat ovat 50x50.  
   
 Käyttäjä siis itse asettaa arvot ennen ohjelman ajamista.  
