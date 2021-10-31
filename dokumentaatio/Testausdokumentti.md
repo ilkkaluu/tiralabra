@@ -1,5 +1,8 @@
 # Testaus  
 
+## Ohjelman testaus  
+Varsinaista ohjelman testausta ei tällä hetkellä valitettavasti ole.  
+
 ## Mitä on testattu, miten, ja minkälaisilla syötteillä?  
 ### Suorituskyky   
 * Tehokkutta testataan ajastimella, joka mittaa kuluneen ajan millisekunneissa. Tulos näytetään ohjelman suorituksen päätyttyä.  
