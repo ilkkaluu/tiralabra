@@ -9,6 +9,7 @@ Labyrintit muodostetaan util-kansion apuluokkia. PPiste-luokka liittyy satunnais
 
 ## Suorituskyky- ja O-analyysivertailu  
 Suorituskykyä mitataan millisekuntiajastimella. Kruskalin suorituskyky heikentyy suuressa labyrintissa huomattavasti optimointiongelmien takia, kun taas Primin suorituskyky säilyy koosta riippumatta O(n^2).  
+  
 ## Puutteet ja parannusehdotukset  
 * Kruskalin algoritmi tarvitsisi optimointia, sillä tällä hetkellä se on huomattavasti hitaampi kuin Primin algoritmi.  
 * UI on tällä hetkellä vain ASCII-pohjainen. 
